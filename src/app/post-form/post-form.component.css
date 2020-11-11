@@ -1,0 +1,10 @@
+.form {
+  width: 80%;
+  background-color: aliceblue;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+
+.hide {
+  display: none;
+}
